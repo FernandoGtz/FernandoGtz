@@ -4,7 +4,7 @@
 
 **Software Engineer &nbsp;·&nbsp; Backend & Cloud &nbsp;·&nbsp; Java &nbsp;·&nbsp; AWS**
 
-Morelia, Mexico &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/fernando-guti%C3%A9rrez-23029a23a/) &nbsp;·&nbsp; [fernandogtz242@gmail.com](mailto:fernandogtz242@gmail.com)
+Morelia, Mexico &nbsp;·&nbsp; [LinkedIn](www.linkedin.com/in/fernando-david-gómez-gutiérrez-23029a23a) &nbsp;·&nbsp; [fernandogtz242@gmail.com](mailto:fernandogtz242@gmail.com)
 
 </div>
 
