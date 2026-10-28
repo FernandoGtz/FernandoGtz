@@ -4,7 +4,7 @@
 
 **Software Engineer &nbsp;·&nbsp; Backend & Cloud &nbsp;·&nbsp; Java &nbsp;·&nbsp; AWS**
 
-Morelia, Mexico &nbsp;·&nbsp; [LinkedIn](www.linkedin.com/in/fernando-david-gómez-gutiérrez-23029a23a/) &nbsp;·&nbsp; [fernandogtz242@gmail.com](mailto:fernandogtz242@gmail.com)
+Morelia, Mexico &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/fernando-david-gómez-gutiérrez-23029a23a) &nbsp;·&nbsp; [fernandogtz242@gmail.com](mailto:fernandogtz242@gmail.com)
 
 </div>
 
@@ -85,7 +85,7 @@ A web-based gym management system built with a distributed architecture and prod
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-guti%C3%A9rrez-23029a23a/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fernando-guti%C3%A9rrez-23029a23a/](https://www.linkedin.com/in/fernando-david-gómez-gutiérrez-23029a23a)
 &nbsp;
 [![Email](https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandogtz242@gmail.com)
 
